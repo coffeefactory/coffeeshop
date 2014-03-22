@@ -1,1 +1,0 @@
-this is a backbone.js tutorial project
