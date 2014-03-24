@@ -12,11 +12,10 @@ To set this up and run (assuming you have Java 1.6 or newer, Git and Maven insta
 1. Install and configure your database. More details on setting up the database are in the sql folder.
 
 2. Download or clone code from Github and run the following commands
-
-<code>
-   cd coffeeshop\coffee.shop.second.draft
-   mvn clean compile jetty:run
-</code>
+<code><div>
+<div>$ cd coffeeshop\coffee.shop.second.draft </div>
+<div>$ mvn clean package jetty:run </div>
+</div></code>
 
 3. After making sure your Jetty server is running, enter the following URL's in your browser:
 
